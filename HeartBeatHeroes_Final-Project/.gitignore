@@ -1,0 +1,5 @@
+/BloodDonationForPatients/nbproject/private/*
+/BloodDonationForPatients/dist/*
+/BloodDonationForPatients/build/*
+
+*.db4o
